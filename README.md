@@ -6,7 +6,7 @@ Written entirely in C language.
 Created by Łukasz Sztukiewicz & Michał Wiliński.
 
 - Formatter: [Clang 15.0.0](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
-- Compiled with: gcc -g -Wall -Wextra main.c -o main
+- Compiled with: gcc -Wall -Wextra *.c -o main
 - Tested against Valgrind
 
 ## Usage
