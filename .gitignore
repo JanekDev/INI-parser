@@ -3,6 +3,7 @@
 *.ini
 *.vscode
 build
+main
 
 # Object files
 *.o
